@@ -1,4 +1,3 @@
-# Creator-Streamer-Bookkeeping-12-Month-Simulated-Case-Study
 # Creator and Streamer Bookkeeping: 12-Month Simulated Case Study
 
 ## Project Overview
